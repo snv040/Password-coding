@@ -45,4 +45,10 @@ if s = [a1,a2]
 s1 = [a1,a2,a3]
 end
 
+puts a1
+puts a3
+
+combination_1 = a1*a3
+
+
 
